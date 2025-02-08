@@ -1,19 +1,19 @@
 # simple-kepegawaian
 
 ### Akun Admin 
-username : admin
-email    : admin@gmail.com
-password : 12341234
-
-### Akun User/Pegawai
-username : asep
-email    : asep@gmail.com
-password : 12341234
-
-username : Adam Husein
-email    : adamh@gmail.com
-password : 12341234
-
-username : John Doe
-email    : john@gmail.com
-password : 12341234
+username : admin  <br/>
+email    : admin@gmail.com <br/>
+password : 12341234 <br/>
+<br/>
+### Akun User/Pegawai 
+username : asep <br/>
+email    : asep@gmail.com <br/>
+password : 12341234 <br/>
+<br/>
+username : Adam Husein <br/>
+email    : adamh@gmail.com <br/>
+password : 12341234 <br/>
+<br/>
+username : John Doe <br/>
+email    : john@gmail.com <br/>
+password : 12341234 <br/>
